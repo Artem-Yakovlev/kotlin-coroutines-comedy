@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinCoroutingsTest</string>
+    <string name="click">click</string>
+</resources>
